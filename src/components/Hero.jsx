@@ -9,7 +9,7 @@ const Hero = () => {
         <div className=" w-[80%] mx-auto">
             <div className="   pl-[6rem] text-center flex justify-center items-center">
                 <h1 className="text-8xl   tracking-[2rem] text-gray-200/10 font-extrabold">
-                    ZIM_PILOT
+                    POLIT JOBS
                 </h1>
             </div>
         </div>
