@@ -1,7 +1,6 @@
 import React from 'react'
 import logo from '../assets/Frame 1.png'
-import hero from '../assets/Group 11.png'
-import Hero from './Hero'
+
 
 const Navbar = () => {
   return (
